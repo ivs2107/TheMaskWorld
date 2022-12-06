@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9f84aef54e7093e4fa0db31dd9460e84
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: c0a5e76603b42f444b0500906ea7c0b1
+  - enabled: 1
+    path: Assets/Scenes/SelectChamp.unity
+    guid: ca35133f279a3504ab4b534fe5f2c03f
+  - enabled: 0
+    path: Assets/Scenes/Dialogue1.unity
+    guid: a3a8d395124b6d149b082e79401e2f8d
+  - enabled: 0
+    path: Assets/Scenes/Dialogue2.unity
+    guid: a6c78b5d8ff08c841b32eb86dd6c2bf7
+  - enabled: 0
+    path: Assets/Scenes/Dialogue3.unity
+    guid: fd3cad20d3d685c48b8f4ca5ba4e36ca
+  - enabled: 0
+    path: Assets/Scenes/Level1.unity
+    guid: 6250586c3a81fa047a8d4f658fa72451
+  - enabled: 0
+    path: Assets/Scenes/Dialogue4.unity
+    guid: 396f30742d94de04786ef523097d3299
+  - enabled: 0
+    path: Assets/Scenes/Dialogue5.unity
+    guid: 722fed51018047744ab6239bcacf1024
+  - enabled: 0
+    path: Assets/Scenes/Level2.unity
+    guid: 844e305992b29ae49ae5a5bfb1f6841a
+  - enabled: 0
+    path: Assets/Scenes/Dialogue6.unity
+    guid: 96c0c59abfc5de741ac6114b26b45cb6
+  - enabled: 0
+    path: Assets/Scenes/Dialogue7.unity
+    guid: 55751b624c721cf45bbeb514d732b35c
+  - enabled: 0
+    path: Assets/Scenes/Level3.unity
+    guid: a89de6d061b4262469e25c073f14a193
+  - enabled: 0
+    path: Assets/Scenes/Dialogue8.unity
+    guid: aa8767ec305282d4380924d5c49e0eb5
+  - enabled: 0
+    path: Assets/Scenes/Level4.unity
+    guid: 0d3b0775db2fb1d46af007e26019369c
+  - enabled: 0
+    path: Assets/Scenes/Level4OLD.unity
+    guid: 840a649372acea74abae8896f8dc7e5e
+  - enabled: 0
+    path: Assets/Scenes/Dialogue9.unity
+    guid: 559d959df4388ff41b19f8e6fa570e86
+  - enabled: 0
+    path: Assets/Scenes/Dialogue10.unity
+    guid: 39830490018d97a45b5e0a2c8db81567
+  - enabled: 0
+    path: Assets/Scenes/Dialogue11.unity
+    guid: 804a49c5313c99e4d9a85315258670f7
+  - enabled: 0
+    path: Assets/Scenes/Level5.unity
+    guid: 86f78eb15dbf139499a3b75b3f98b3a7
+  - enabled: 0
+    path: Assets/Scenes/Dialogue12.unity
+    guid: f6740a64719f22d43aae30c6fe7c8ad4
+  - enabled: 1
+    path: Assets/Scenes/DialogueV2/V2Dialogue1.unity
+    guid: f8964bdd8c78fa24e8fedafa7f58b7e3
+  - enabled: 1
+    path: Assets/Scenes/DialogueV2/V2Dialogue2.unity
+    guid: 33d6643889faffc408bf682e22b18165
+  - enabled: 1
+    path: Assets/Scenes/DialogueV2/V2Dialogue3.unity
+    guid: d7cef5cad3ec2fa469f46bc777d32556
+  - enabled: 1
+    path: Assets/Scenes/LevelV2/V2Level1.unity
+    guid: 68701e5d433188847b2e31e5b9212b9b
+  - enabled: 1
+    path: Assets/Scenes/DialogueV2/V2Dialogue4.unity
+    guid: baa21969a44ef694794a2838f6fd42fd
+  - enabled: 1
+    path: Assets/Scenes/DialogueV2/V2Dialogue5.unity
+    guid: e93406f180e276e458ad25a5d27eeaf0
+  - enabled: 1
+    path: Assets/Scenes/LevelV2/V2Level2.unity
+    guid: 58806784afa63164887e5ae3dcfb8633
+  - enabled: 1
+    path: Assets/Scenes/DialogueV2/V2Dialogue6.unity
+    guid: cb9c8720bd2a88f46beb17f148b4aa1a
+  - enabled: 1
+    path: Assets/Scenes/LevelV2/V2Level3.unity
+    guid: ffca9f979f625404fac1b2862438d3d8
+  - enabled: 1
+    path: Assets/Scenes/DialogueV2/V2Dialogue7.unity
+    guid: 1433e1abe0790e6448abf6597bc89f57
+  - enabled: 1
+    path: Assets/Scenes/LevelV2/V2Level4.unity
+    guid: 5173ebaf079f999489642af3f54f010a
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 3d0c08e73812e7e4c8ad6ed2e5d1961b
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 40d8175a58c62924599a707906da94f0
+  m_configObjects: {}

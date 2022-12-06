@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 643918f632607784f85fb7abb5851b8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2733782662787044852
+    second: LaetithiaIdle_0
+  - first:
+      213: 2344478998899195517
+    second: LaetithiaIdle_1
+  - first:
+      213: 1076110131788568272
+    second: LaetithiaIdle_2
+  - first:
+      213: 5011476039079975118
+    second: LaetithiaIdle_3
+  - first:
+      213: 3202764987447776499
+    second: LaetithiaIdle_4
+  - first:
+      213: -4549875591538620458
+    second: LaetithiaIdle_5
+  - first:
+      213: 3472600138952169512
+    second: LaetithiaIdle_6
+  - first:
+      213: 7012567446649487466
+    second: LaetithiaIdle_7
+  - first:
+      213: -1691626576318640408
+    second: LaetithiaIdle_8
+  - first:
+      213: -6138316732837719277
+    second: LaetithiaIdle_9
+  - first:
+      213: 660337941562690795
+    second: LaetithiaIdle_10
+  - first:
+      213: 3409313031393084494
+    second: LaetithiaIdle_11
+  - first:
+      213: 4761613759118157432
+    second: LaetithiaIdle_12
+  - first:
+      213: -1422888591823858002
+    second: LaetithiaIdle_13
+  - first:
+      213: -3444243435557563826
+    second: LaetithiaIdle_14
+  - first:
+      213: 1588254484163263741
+    second: LaetithiaIdle_15
+  - first:
+      213: -6806521600601468346
+    second: LaetithiaIdle_16
+  - first:
+      213: 1666331244114506635
+    second: LaetithiaIdle_17
+  - first:
+      213: -6389988410921200541
+    second: LaetithiaIdle_18
+  - first:
+      213: -5650079511631491853
+    second: LaetithiaIdle_19
+  - first:
+      213: -8135120149796039447
+    second: LaetithiaIdle_20
+  - first:
+      213: 4117430228739362708
+    second: LaetithiaIdle_21
+  - first:
+      213: -3122431650308786037
+    second: LaetithiaIdle_22
+  - first:
+      213: -2076151699407419931
+    second: LaetithiaIdle_23
+  - first:
+      213: -8403117084682399158
+    second: LaetithiaIdle_24
+  - first:
+      213: 2843938477378314394
+    second: LaetithiaIdle_25
+  - first:
+      213: 664884997934098730
+    second: LaetithiaIdle_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LaetithiaIdle_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2543
+        width: 283
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ae4730727af0ad0800000000000000
+      internalID: -2733782662787044852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2543
+        width: 283
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7effb85a33498020800000000000000
+      internalID: 2344478998899195517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2543
+        width: 283
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6d470a67c1fee00800000000000000
+      internalID: 1076110131788568272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2543
+        width: 280
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec85eb5d7e65c8540800000000000000
+      internalID: 5011476039079975118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2543
+        width: 283
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f412ef79c1827c20800000000000000
+      internalID: 3202764987447776499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2036
+        width: 283
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7ce1a71489bd0c0800000000000000
+      internalID: -4549875591538620458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2036
+        width: 283
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82857318d67213030800000000000000
+      internalID: 3472600138952169512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_7
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2036
+        width: 283
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60c20540f4a15160800000000000000
+      internalID: 7012567446649487466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_8
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2036
+        width: 283
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eecae967922688e0800000000000000
+      internalID: -1691626576318640408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2036
+        width: 283
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131f54247150daa0800000000000000
+      internalID: -6138316732837719277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1528
+        width: 283
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec8e86fbddf92900800000000000000
+      internalID: 660337941562690795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1527
+        width: 276
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448b448320505f20800000000000000
+      internalID: 3409313031393084494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_12
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1528
+        width: 276
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876a9dd5c76a41240800000000000000
+      internalID: 4761613759118157432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_13
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1528
+        width: 276
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea612615d52e04ce0800000000000000
+      internalID: -1422888591823858002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1527
+        width: 276
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42de9ff7d69330d0800000000000000
+      internalID: -3444243435557563826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1019
+        width: 276
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcf875d90d9a0610800000000000000
+      internalID: 1588254484163263741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1019
+        width: 276
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6425020baa06a81a0800000000000000
+      internalID: -6806521600601468346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_17
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1019
+        width: 280
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83749b107fff1710800000000000000
+      internalID: 1666331244114506635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_18
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1019
+        width: 280
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364dd2855633257a0800000000000000
+      internalID: -6389988410921200541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1019
+        width: 279
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc0e7c9e92e691b0800000000000000
+      internalID: -5650079511631491853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 512
+        width: 285
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4d842535f3a1f80800000000000000
+      internalID: -8135120149796039447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 512
+        width: 285
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f077b5afc042930800000000000000
+      internalID: 4117430228739362708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_22
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 512
+        width: 285
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8878e715f4eaa4d0800000000000000
+      internalID: -3122431650308786037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_23
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 512
+        width: 285
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e54ff087070033e0800000000000000
+      internalID: -2076151699407419931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_24
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 512
+        width: 285
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a425d797881226b80800000000000000
+      internalID: -8403117084682399158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4
+        width: 285
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9023333af2b77720800000000000000
+      internalID: 2843938477378314394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaetithiaIdle_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 285
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29295602652a3900800000000000000
+      internalID: 664884997934098730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 522d4f78b6f38aa4ea176c5c0b271cd8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
